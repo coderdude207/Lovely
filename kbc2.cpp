@@ -95,6 +95,7 @@ int main()
 {
 printf("\t\t\t\t\t\t\tKBC me Shivam Kumar aapka swaagat krte hai\n");
 printf("\t\t\t\t\t\t\t******************************************\n\n");
+printf("\t\t\t\t\t\t\tAaiye shuru karte hai apna game \n"):
 printf("\a");
 char ch1;
 ptr=fopen("kk.doc","r");
