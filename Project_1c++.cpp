@@ -3,6 +3,8 @@
 #include<fstream>
 #include<string>
 #include<conio.h>
+//you can use one for this all lines
+// #include<bits/std++.h>
 using namespace std;
 char password[30];
 class a{
